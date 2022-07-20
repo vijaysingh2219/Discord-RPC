@@ -1,0 +1,23 @@
+{
+  "name": "discord-rpc",
+  "version": "1.0.0",
+  "description": "A simple Discord RPC application that allows you to display your current activity on Discord.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijaysingh2219/Discord-RPC.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vijaysingh2219/Discord-RPC/issues"
+  },
+  "homepage": "https://github.com/vijaysingh2219/Discord-RPC#readme",
+  "dependencies": {
+    "discord-rpc": "^4.0.1",
+    "dotenv": "^16.0.1"
+  }
+}

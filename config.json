@@ -1,0 +1,18 @@
+{
+  "details": "Jujutsu Kaisen",
+  "state": "Ryomen Sukuna • Episode 1",
+  "largeImageKey": "image1",
+  "largeImageText": "The King of Curses",
+  "smallImageKey": "gojo",
+  "smallImageText": "Four Eyes",
+  "buttons": [
+    {
+      "label": "Watch Anime",
+      "url": "https://www.crunchyroll.com/series/GRDV0019R/jujutsu-kaisen"
+    },
+    {
+      "label": "Domain Expansion",
+      "url": "https://jujutsukaisen.jp/"
+    }
+  ]
+}
